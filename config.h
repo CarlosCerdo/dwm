@@ -6,7 +6,7 @@ static const unsigned int gappx     = 30;        /* gaps between windows */
 static const unsigned int snap      = 32;       /* snap pixel */
 static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
-static const char *fonts[]          = { "monospace:size=10",
+static const char *fonts[]          = { "Sauce Code Pro Nerd Font:size=10",
 					"Sauce Code Pro Nerd Font:pixelsize=28:type=Regular:antialias=true:autohint=true",
 					"WenQuanYi Micro Hei:size=10:type=Regular:antialias=true:autohint=true"
 };
