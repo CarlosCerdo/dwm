@@ -8,7 +8,7 @@ static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
 static const char *fonts[]          = { "Sauce Code Pro Nerd Font:size=15",
 					"Sauce Code Pro Nerd Font:pixelsize=28:type=Regular:antialias=true:autohint=true",
-					"WenQuanYi Micro Hei:size=25:type=Regular:antialias=true:autohint=true"
+					"WenQuanYi Micro Hei:size=15:type=Regular:antialias=true:autohint=true"
 };
 static const char dmenufont[]       = "Sauce Code Pro Nerd Font:size=15";
 static const char col_gray1[]       = "#222222";
