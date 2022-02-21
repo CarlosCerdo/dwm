@@ -6,11 +6,11 @@ static const unsigned int gappx     = 30;        /* gaps between windows */
 static const unsigned int snap      = 32;       /* snap pixel */
 static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
-static const char *fonts[]          = { "Sauce Code Pro Nerd Font:size=10",
+static const char *fonts[]          = { "Sauce Code Pro Nerd Font:size=15",
 					"Sauce Code Pro Nerd Font:pixelsize=28:type=Regular:antialias=true:autohint=true",
-					"WenQuanYi Micro Hei:size=10:type=Regular:antialias=true:autohint=true"
+					"WenQuanYi Micro Hei:size=25:type=Regular:antialias=true:autohint=true"
 };
-static const char dmenufont[]       = "monospace:size=10";
+static const char dmenufont[]       = "Sauce Code Pro Nerd Font:size=15";
 static const char col_gray1[]       = "#222222";
 static const char col_gray2[]       = "#444444";
 static const char col_gray3[]       = "#bbbbbb";
